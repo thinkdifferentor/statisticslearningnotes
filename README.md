@@ -3,6 +3,7 @@
 - [Learning Notes of Statistics](#learning-notes-of-statistics)
   - [00 Central Limit Theorem](#00-central-limit-theorem)
   - [01 Normal Distribution](#01-normal-distribution)
+  - [02 Binomial Distribution](#02-binomial-distribution)
 
 <!-- /TOC -->
 
@@ -20,3 +21,10 @@
 - ![ND_1](./images/ND_1.png)
 - ![ND_2](./images/ND_2.png)
 - ![ND_3](./images/ND_3.png)
+
+
+## 02 Binomial Distribution
+- 伯努利事件条件：1.只有两个结果；2.可以重复多次；3.每次事件相互独立
+- ![BD_1](images/BN_1.png)
+- ![BD_2](images/BN_3.png)
+
