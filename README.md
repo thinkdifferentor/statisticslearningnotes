@@ -4,6 +4,7 @@
   - [00 Central Limit Theorem](#00-central-limit-theorem)
   - [01 Normal Distribution](#01-normal-distribution)
   - [02 Binomial Distribution](#02-binomial-distribution)
+  - [03 Poisson & Index Distribution](#03-poisson--index-distribution)
 
 <!-- /TOC -->
 
@@ -28,3 +29,9 @@
 - ![BD_1](images/BN_1.png)
 - ![BD_2](images/BN_3.png)
 
+
+## 03 Poisson & Index Distribution
+- Poisson分布：离散型分布，描述**一段时间内**（单位时间内），事件发生**多少次**的概率分布。**发生次数角度**。*期望是单位时间内时间发生的次数。*
+- Index分布：连续型分布，描述事件与事件之间的**时间间隔**的概率分布。**时间间隔角度**。*期望是相邻两个时间发生的时间间隔。*
+- *两者只有在相同单位时间跨度内，lambda的值相同，且期望互为倒数*。
+- ![Poisson & Index Distribution](./images/P%26ID_1.png)
